@@ -1,0 +1,9 @@
+
+<div >
+		
+		
+			<p class="note-msg">There are no products matching the selection.</p>
+	</div>
+<script type="text/javascript">
+	decorateGeneric($$('ul.products-grid'),['last','first','odd','even']);
+</script>

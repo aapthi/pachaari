@@ -1,0 +1,42 @@
+
+    <div class="widget widget-static-block ">
+    	    	<div class="block-subscribe-logo">
+<div class="grid_16 alpha"><div class="block block-subscribe">
+    <div class="block-title">
+        <strong><span>Newsletter</span></strong>
+    </div>
+    <form action="http://localhost/pachaari/trunk/index.php/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div class="block-content">
+            <div class="form-subscribe-header">
+                <label for="newsletter">Newsletter Sign Up</label>
+            </div>
+			<div class="form-subscribe-content">
+				<div class="input-box">
+				   <input type="text" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email" />
+				</div>
+				<div class="actions">
+					<button type="submit" title="Go" class="button"><span><span>Go</span></span></button>
+				</div>
+			</div>
+        </div>
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        //var searchForm = new Varien.searchForm('newsletter-validate-detail', 'newsletter', 'Sign up for your email ...'); 
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]>
+    </script>
+</div>
+</div>
+<div class="grid_8 omega">
+<p class="h6">FOLLOW US ON</p>
+<p>
+ <a title="Feed" href="#"><span class="icon followus feed">Feed</span></a>
+ <a title="Vimeo" href="#"><span class="icon followus vimeo">Vimeo</span></a>
+<a title="Google" href="#"><span class="icon followus google">Google</span></a>
+<a title="Twitter" href="#"><span class="icon followus twitter">Twitter</span></a>
+<a title="Facebook" href="#"><span class="icon followus facebook">Facebook</span></a> 
+</p>
+</div>
+</div>    </div>
+

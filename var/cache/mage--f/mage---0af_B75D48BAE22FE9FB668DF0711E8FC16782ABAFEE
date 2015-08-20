@@ -1,0 +1,9 @@
+<div class="grid_5 alpha">
+<p><span class="icon return">1</span><span class="header-logo return small">14 days return products</span></p>
+</div>
+<div class="grid_5 ">
+<p><span class="icon shipping">1</span><span class="header-logo shipping small">Free shipping all order</span></p>
+</div>
+<div class="grid_5 omega">
+<p><span class="icon payment">1</span><span class="header-logo payment small">Payment by credit card</span></p>
+</div>

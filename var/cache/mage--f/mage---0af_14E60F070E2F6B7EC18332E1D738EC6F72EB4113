@@ -1,0 +1,39 @@
+
+    <div class="widget widget-static-block ">
+    	    	<div class="grid_6 alpha">
+<h6>About Us</h6>
+<ul class="none">
+<li>
+<p>Nam libero tempore, cum soluta nis est eligendi optio cumque nihil Impedit quost minus id quod maxime lore placeat facerest possimus, omnis mesae voluptas assumendast loremis estdrepellendus</p>
+</li>
+</ul>
+</div>
+<div class="grid_6">
+<h6>Information center</h6>
+<ul>
+<li><a href="#">Pellentesque habitant</a></li>
+<li><a href="#">Egestas iaculis</a></li>
+<li><a href="#">Massa erosus eros</a></li>
+<li><a href="#">Ultricies lacinia</a></li>
+<li><a href="#">Rutrum faucibus</a></li>
+</ul>
+</div>
+<div class="grid_6">
+<h6>Latest News</h6>
+<ul>
+<li><a href="#">Pellentesque habitant</a></li>
+<li><a href="#">Egestas iaculis</a></li>
+<li><a href="#">Massa erosus eros</a></li>
+<li><a href="#">Ultricies lacinia</a></li>
+<li><a href="#">Rutrum faucibus</a></li>
+</ul>
+</div>
+<div class="grid_6 omega">
+<h6>Contact Us</h6>
+<ul class="none">
+<li><span class="icon address">1</span><span class="footer-logo"></span></li>
+<li><span class="icon fone">2</span><span class="footer-logo"></span></li>
+<li><span class="icon email">3</span><span class="footer-logo">owner@example.com</span></li>
+</ul>
+</div>    </div>
+

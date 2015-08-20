@@ -1,0 +1,22 @@
+<div class="footer-container">
+    <div class="footer">
+		<ul>
+<li><a href="http://localhost/pachaari/trunk/index.php/about-magento-demo-store">About Us</a></li>
+<li><a href="http://localhost/pachaari/trunk/index.php/customer-service">Customer Service</a></li>
+<li class="last privacy"><a href="http://localhost/pachaari/trunk/index.php/privacy-policy-cookie-restriction-mode">Privacy Policy</a></li>
+</ul>
+<ul class="links">
+<li class="first"><a title="Contact Us" href="http://localhost/pachaari/trunk/index.php/contacts">Contact Us</a></li>
+<li><a title="Site Map" href="http://localhost/pachaari/trunk/index.php/catalog/seo_sitemap/category">Site Map</a></li>
+<li><a title="Search Terms" href="http://localhost/pachaari/trunk/index.php/catalogsearch/term/popular">Search Terms</a></li>
+<li><a title="Advanced Search" href="http://localhost/pachaari/trunk/index.php/catalogsearch/advanced">Advanced Search</a></li>
+<li class=" last"><a title="Orders and Returns" href="http://localhost/pachaari/trunk/index.php/sales/guest/form">Orders and Returns</a></li>
+</ul>       	<div class="footer-address">
+			<address>&copy; 2015 Magento Demo Store. All Rights Reserved.</address>
+			<span>Magento Templates by <a href="http://www.emthemes.com/responsive-magento-themes.html" title="Responsive Magento Themes &amp; Responsive Magento Templates">EMThemes.com</a></span>
+		</div>
+        <p class="logo-payment">
+            <span class="custom-logo payment">Payment</span>
+        </p>
+    </div>
+</div>
